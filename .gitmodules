@@ -1,0 +1,3 @@
+[submodule "node_modules/vim-netbeans"]
+	path = node_modules/vim-netbeans
+	url = https://github.com/clehner/node-vim-netbeans.git
