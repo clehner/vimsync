@@ -2,7 +2,7 @@ VimSync
 =======
 
 VimSync is a server for collaborative real-time editing in Vim, made with
-[/clehner/node-vim-netbeans](node-vim-netbeans).
+[node-vim-netbeans](/clehner/node-vim-netbeans).
 
 Usage
 -----
