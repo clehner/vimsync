@@ -8,8 +8,8 @@ Usage
 -----
 
 	$ cd vimsync
-    $ git submodules init
-    $ git submodules update
+    $ git submodule init
+    $ git submodule update
 	$ node vimsync.js
 
 Todo
